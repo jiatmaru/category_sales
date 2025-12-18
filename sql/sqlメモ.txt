@@ -1,0 +1,6 @@
+order_billingsとorder_productsは1対多の関係
+
+order_products 966 行（716カテゴリの資料請求行）
+billing_id は 17 種類 → 17 回の請求（まとめ請求）
+各 billing_id 内で order_products が複数行紐づく
+→ 正しい売上を取るには order_billings.price を使わなければならない。

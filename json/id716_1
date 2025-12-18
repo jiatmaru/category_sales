@@ -1,0 +1,49 @@
+[{
+  "quarter": "2023-Q1",
+  "revenue_jpy": "1770000",
+  "orders": "5"
+}, {
+  "quarter": "2023-Q2",
+  "revenue_jpy": "990000",
+  "orders": "9"
+}, {
+  "quarter": "2023-Q3",
+  "revenue_jpy": "1119000",
+  "orders": "8"
+}, {
+  "quarter": "2023-Q4",
+  "revenue_jpy": "3995000",
+  "orders": "12"
+}, {
+  "quarter": "2024-Q1",
+  "revenue_jpy": "2506000",
+  "orders": "9"
+}, {
+  "quarter": "2024-Q2",
+  "revenue_jpy": "1292000",
+  "orders": "8"
+}, {
+  "quarter": "2024-Q3",
+  "revenue_jpy": "459000",
+  "orders": "4"
+}, {
+  "quarter": "2024-Q4",
+  "revenue_jpy": "799000",
+  "orders": "6"
+}, {
+  "quarter": "2025-Q1",
+  "revenue_jpy": "3042000",
+  "orders": "4"
+}, {
+  "quarter": "2025-Q2",
+  "revenue_jpy": "3576000",
+  "orders": "10"
+}, {
+  "quarter": "2025-Q3",
+  "revenue_jpy": "29869000",
+  "orders": "53"
+}, {
+  "quarter": "2025-Q4",
+  "revenue_jpy": "9010000",
+  "orders": "23"
+}]

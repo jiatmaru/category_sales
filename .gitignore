@@ -1,0 +1,22 @@
+# 機密データ
+# jsonフォルダ内の .json ファイルだけを除外
+json/*.json
+
+#フォルダ内の .sql ファイルだけを除外
+sql/*.sql
+
+# CSVやExcelも除外
+*.csv
+*.xlsx
+
+# Python 環境
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+*.log
+
+# OS / エディタ生成ファイル
+.DS_Store
+Thumbs.db
