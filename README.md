@@ -22,17 +22,20 @@
 
 # 📂 ディレクトリ構成
 
+```text
 category_sales/
 │
-├── json/ # 実データ(JSON)は非公開（.gitignore で除外）
-│ └── json_format_example.md # JSON 構造の例（ダミー）
+├── json/                      # 実データ(JSON)は非公開（.gitignoreで除外）
+│   └── json_format_example.md # JSON構造の例（ダミー）
 │
-├── sql/ # SQLファイルも機密のため非公開（.gitignore）
+├── sql/                       # SQLファイルも機密のため非公開（.gitignore）
 │
-├── notebooks/ # （任意）分析ノートブックを置く場合
+├── notebooks/                 # （任意）分析ノートブックを置く場合
 │
-├── README.md # 本ファイル
-└── .gitignore # 機密データの除外設定
+├── README.md                  # 本ファイル
+└── .gitignore                 # 機密データの除外設定
+```
+
 
 # 📘 JSON データ構造（実データは未公開）
 
